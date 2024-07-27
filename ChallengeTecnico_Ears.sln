@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeTecnico_Ears", "ChallengeTecnico_Ears\ChallengeTecnico_Ears.csproj", "{C8F13ABA-EB1D-4B78-9C62-BD9D785141FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeTecnico_Ears", "ChallengeTecnico_Ears\ChallengeTecnico_Ears.csproj", "{C8F13ABA-EB1D-4B78-9C62-BD9D785141FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChallenge", "TestChallenge\TestChallenge.csproj", "{58A33F30-D5FB-40E5-8B0D-654551D4F86B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C8F13ABA-EB1D-4B78-9C62-BD9D785141FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F13ABA-EB1D-4B78-9C62-BD9D785141FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F13ABA-EB1D-4B78-9C62-BD9D785141FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A33F30-D5FB-40E5-8B0D-654551D4F86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A33F30-D5FB-40E5-8B0D-654551D4F86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A33F30-D5FB-40E5-8B0D-654551D4F86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A33F30-D5FB-40E5-8B0D-654551D4F86B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

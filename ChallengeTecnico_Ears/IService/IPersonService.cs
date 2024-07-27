@@ -4,7 +4,6 @@ namespace ChallengeTecnico_Ears.IService
 {
     public interface IPersonService
     {
-
-        List<PersonModel> GetPersonList();
+        Task<List<PersonModel>> GetPersonList();
     }
 }
